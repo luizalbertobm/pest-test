@@ -1,4 +1,5 @@
 {
+    "license": "proprietary",
     "name": "luiz/pest-test",
     "description": "study php tests",
     "type": "project",
