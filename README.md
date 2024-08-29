@@ -10,7 +10,12 @@ composer install
 
 ## Start local PHP server
 ```bash
-php -S localhost:8000
+composer start
+```
+
+## Stop local PHP server
+```bash
+composer stop
 ```
 
 ## Run tests
